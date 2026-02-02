@@ -35,11 +35,9 @@ Uploaded in the repository.
 ```
 potential-customers-prediction/
 │
-├── notebooks/
-│   └── customer_prediction.ipynb
-│
-├── reports/
-│   └── customer_prediction.html
+├── customer_prediction.ipynb
+│   
+├── ExtraaLearn.csv
 │
 ├── README.md
 └── LICENSE
