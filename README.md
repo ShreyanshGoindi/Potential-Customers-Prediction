@@ -31,11 +31,6 @@ Uploaded in the repository.
 5. Model evaluation  
 6. Prediction and analysis  
 
-## Results
-The trained model demonstrates effective performance in predicting potential customers.
-
-(Add accuracy, F1-score, or other metrics here if available.)
-
 ## Repository Structure  
 ```
 potential-customers-prediction/
@@ -49,6 +44,7 @@ potential-customers-prediction/
 ├── README.md
 └── LICENSE
 ```
+
 ## How to Run
 1. Clone the repository:
    ```bash
